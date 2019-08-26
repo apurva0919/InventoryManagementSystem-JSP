@@ -1,0 +1,27 @@
+.table{
+    width: 100%;
+   // border-style: dotted;
+}
+table,th,td
+{
+ border: 1px solid green;
+ //border: 1px solid black; 
+ border-collapse: collapse;
+}
+th
+{
+ height: 50px;  
+
+ background-color: #0cb622;
+    color: white;
+}
+td {
+    height: 15px;
+    vertical-align: bottom;
+   
+}
+.table tr.alt td
+{
+     color: #000000;
+     background-color: #bdc5c0;
+}

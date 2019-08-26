@@ -1,0 +1,26 @@
+.button
+{
+        position: fixed;
+	background-color:#3333FF;
+	color:#FFFFFF;
+        border-radius: 5px;
+        border: 0px solid #3333FF;
+        box-shadow: 0px 0px 5px #000;
+	font-size:25px;
+        font-family: initial;
+	height: 40px;
+	width: 285px;   
+}
+input.button[type=submit]:hover 
+{
+background-color: blue;
+font-size: 28px;
+    
+}
+input.button[type=submit]:active
+{
+	background-color:#5379fa;
+}
+.login input[type=submit]:focus{
+background-color:navy;
+}

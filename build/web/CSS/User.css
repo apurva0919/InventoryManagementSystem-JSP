@@ -1,0 +1,11 @@
+.password input[type = password]:focus
+{
+    border-color: red;
+     
+}
+.select
+{
+    
+    background-color:wheat;
+}
+

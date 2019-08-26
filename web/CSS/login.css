@@ -1,0 +1,35 @@
+.table{
+    background-color:#E6EDF5;
+    
+}  
+.maintable
+{
+border-radius: 15px;
+// box-shadow: -10px  -10px -10px 10px #7dfa00;
+//box-shadow: 10px 10px 10px  #444444;
+box-shadow: 0px 0px 25px #000;
+
+background-color:#E6EDF6;
+}
+.txtbox
+{
+border-radius:10px;
+width:350px;
+font-size: 20px;
+font-family:initial;
+box-shadow: 0px 0px 5px #000;
+height:35px;
+}
+.select
+{
+border-radius:10px;
+width:360px;
+font-size: 20px;
+font-family:initial;
+box-shadow: 0px 0px 5px #000;
+height:40px;
+}
+.error
+{
+    background-color:red;
+}
